@@ -7,8 +7,8 @@ Développer un site web d'e-commerce dynamique en utilisant les technologies HTM
 
 ## Technologies Utilisées
 - Frontend: HTML5, CSS3, JavaScript.
-- Outil de Contrôle de Version:** Git/GitHub.
-- **CI/CD: GitHub Actions.
+- Outil de Contrôle de Version: Git/GitHub.
+- CI/CD: GitHub Actions.
 
 Livrables Attendus
 1. Code source hébergé sur GitHub avec des commits réguliers.
